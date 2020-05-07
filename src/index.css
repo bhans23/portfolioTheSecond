@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.sideView {
+  border-style: solid;
+  height:80%;
+  width: 30%;
+  margin: 0 30px ;
+}
+
+.mainView {
+  height:80%;
+  width: 70%;
+  border-style: solid;
+  margin: 0 30px ;
+}
+
+.mainApp {
+  display:flex;
+  height:100vh;
+  justify-content: space-between;
+  align-items: center;
+  
+
+}
